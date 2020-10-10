@@ -1,1 +1,4 @@
 https://awk.js.org
+https://www.tutorialspoint.com/execute_awk_online.php
+https://ideone.com/l/awk-gawk
+https://atom.io/packages/language-awk
